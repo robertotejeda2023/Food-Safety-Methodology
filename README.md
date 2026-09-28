@@ -8,8 +8,12 @@ This repository contains open-access food safety monitoring logs, SOPs, and gove
 
 ## Available Resources
 •  **FS-LOG-01**: Cold Storage Temperature Log
+
 •⁠  ⁠**FS-LOG-02**: Daily Restroom Sanitation Log
+
 •⁠  ⁠**FS-LOG-03**: Daily Sanitation Monitoring Record
+
+•⁠  ⁠**FS-SOP-01**: Restroom_Cleaning_and_Sanitization
 
 ## License
 Released under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
