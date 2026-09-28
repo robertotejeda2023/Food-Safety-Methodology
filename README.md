@@ -13,7 +13,11 @@ This repository contains open-access food safety monitoring logs, SOPs, and gove
 
 •⁠  ⁠**FS-LOG-03**: Daily Sanitation Monitoring Record
 
-•⁠  ⁠**FS-SOP-01**: Restroom_Cleaning_and_Sanitization
+•⁠  ⁠**FS-SOP-01**: Restroom Cleaning and Sanitization
+
+⁠•⁠  **FS-SOP-02**: Cold Storage and Temperature Control
+
+⁠•⁠  **FS-SOP-03**: 3-Compartment Sink Warewashing and Sanitization
 
 ## License
 Released under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
