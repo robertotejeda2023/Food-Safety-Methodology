@@ -36,6 +36,7 @@ All documents are bilingual (English / Spanish).
 | FS-SOP-03 | 3-Compartment Sink Warewashing and Sanitization | PDF + Word |
 | FS-SOP-04 | Cross-Contamination Prevention (also referenced as FSGF-SOP-003) | PDF + Word |
 | FSGF-CHK-002 | 50-Point Sanitation Checklist | PDF + Word |
+| FSGF-CAR-001 | Corrective Action Record | PDF + Word |
 
 The 50-point checklist covers cold storage, restroom cleaning, 3-compartment sink warewashing, cross-contamination prevention, personal hygiene and food handling, and cleaning, verification and records. The pass threshold is **90% (at least 45 of 50 points)**.
 
